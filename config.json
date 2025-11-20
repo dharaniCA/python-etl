@@ -1,0 +1,9 @@
+{
+  "source": "api",                 
+  "input_path": "data/input.csv",
+  "api_url": "https://jsonplaceholder.typicode.com/users",
+  "output_path": "data/output.json",
+  "log_path": "logs/etl.log",
+  "log_level": "INFO"
+}
+

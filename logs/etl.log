@@ -1,0 +1,9 @@
+2025-11-20 04:07:46,103 - __main__ - INFO - Starting ETL pipeline...
+2025-11-20 04:07:46,106 - etl.extract - INFO - Extracted 3 records from data/input.csv
+2025-11-20 04:07:46,108 - __main__ - INFO - ETL pipeline finished successfully
+2025-11-20 04:24:15,478 - __main__ - INFO - Starting ETL pipeline...
+2025-11-20 04:24:15,479 - etl.extract - INFO - Extracted 3 records from CSV: data/input.csv
+2025-11-20 04:24:15,481 - __main__ - INFO - ETL pipeline finished successfully
+2025-11-20 04:32:08,992 - __main__ - INFO - Starting ETL pipeline...
+2025-11-20 04:32:09,903 - etl.extract - INFO - Extracted 10 records from API: https://jsonplaceholder.typicode.com/users
+2025-11-20 04:32:09,914 - __main__ - INFO - ETL pipeline finished successfully
